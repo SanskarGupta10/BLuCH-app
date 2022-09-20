@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLuCH</string>
+    <string name="menu_search_device">Searching Devices</string>
+    <string name="menu_bluetooth_on">Bluetooth Enabled</string>
+</resources>
